@@ -1,0 +1,2 @@
+rootProject.name = "ai_english_teacher_v2"
+include(":app")
